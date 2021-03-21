@@ -1,14 +1,13 @@
 # gdrivemirror-workflow
 
-You can use [This REPO](https://github.com/lzzy12/python-aria-mirror-bot) as a template
+You can use [This REPO](https://github.com/lzzy12/python-aria-mirror-bot) as a template.
 
-First setup everything then push to your private git repository
+## How To Use ???
 
-Next, fork this Repo to RUN your Mirror Bot
-
-Now, Setup your secrets in Settings --> Secrets
-
-And create six New Repository Secrets there
+- First setup everything for your Mirror Bot then push to your private git repository.
+- Next, fork [this workflow repo](https://github.com/shn999/gdrivemirror-workflow) to RUN your Mirror Bot.
+- Now, Setup your secrets in Settings --> Secrets.
+- And create six New Repository Secrets there.
 
 ```text
 GH_TOKEN
@@ -21,12 +20,12 @@ Docker_Password
 
 Here,
 - {Name = Value}
-- GH_TOKEN = Your [GitHub personal access Token](https://github.com/settings/tokens) (for workflow)
-- MIRROR_REPOSLUG = Your secret Repository, as in "username/reponame"
-- GitHubName = Your GitHub Username
-- GitHubMail = Your GitHub Email address
-- Docker_Username = Your [DockerHub](https://hub.docker.com) Username
-- Docker_Password = Your [DockerHub](https://hub.docker.com) Password
+- **GH_TOKEN** = Your [GitHub personal access Token](https://github.com/settings/tokens) (for workflow)
+- **MIRROR_REPOSLUG** = Your secret Repository, as in "username/reponame"
+- **GitHubName** = Your GitHub Username
+- **GitHubMail** = Your GitHub Email address
+- **Docker_Username** = Your [DockerHub](https://hub.docker.com) Username
+- **Docker_Password** = Your [DockerHub](https://hub.docker.com) Password
 
 That's all.
 
