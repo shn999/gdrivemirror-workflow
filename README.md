@@ -22,7 +22,7 @@ Docker_Password
 Here,
 - {Name = Value}
 - GH_TOKEN = Your [GitHub personal access Token](https://github.com/settings/tokens) (for workflow)
-- MIRROR_REPOSLUG = Your secret Repository, as in "<username>/<reponame>"
+- MIRROR_REPOSLUG = Your secret Repository, as in "username/reponame"
 - GitHubName = Your GitHub Username
 - GitHubMail = Your GitHub Email address
 - Docker_Username = Your [DockerHub](https://hub.docker.com) Username
