@@ -7,8 +7,8 @@ First setup everything then push to your private git repository
 Next, fork this Repo to RUN your Mirror Bot
 
 Setup your secrets in 
-Settings --> Secrets
-And create six New Repository Secrets there
+\nSettings --> Secrets
+\nAnd create six New Repository Secrets there
 
 ```text
 GH_TOKEN
@@ -36,8 +36,8 @@ Now go to Actions tab and Run the Workflow 😜
 # Notes 
 
 This is only for debugging purpose.
-If you use it for deploying your account you might get Ban!
-We are not responsible for any action taken by GitHub.
+\nIf you use it for deploying your account you might get Ban!
+\nWe are not responsible for any action taken by GitHub.
 
 
 # Credits
