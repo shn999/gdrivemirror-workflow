@@ -1,8 +1,8 @@
 # gdrivemirror-workflow
 
-You can use [This REPO](https://github.com/lzzy12/python-aria-mirror-bot) as a template.
+To build your own GDrive Mirror Bot you can use [This REPO](https://github.com/lzzy12/python-aria-mirror-bot) as a template.
 
-## How To Use ???
+## How To Use WorkFlow ???
 
 - First setup everything for your Mirror Bot then push to your private git repository.
 - Next, fork [this workflow repo](https://github.com/shn999/gdrivemirror-workflow) to RUN your Mirror Bot.
